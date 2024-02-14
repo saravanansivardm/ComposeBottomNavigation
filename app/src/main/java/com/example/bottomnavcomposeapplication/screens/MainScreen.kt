@@ -1,7 +1,6 @@
-package com.example.bottomnavigationcompose.screens
+package com.example.bottomnavcomposeapplication.screens
 
 import android.annotation.SuppressLint
-import android.util.Log
 import androidx.compose.foundation.layout.RowScope
 import androidx.compose.material.*
 import androidx.compose.runtime.Composable
@@ -12,8 +11,8 @@ import androidx.navigation.NavGraph.Companion.findStartDestination
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.example.bottomnavigationcompose.navigation.BottomNavGraph
-import com.example.bottomnavigationcompose.navigation.Screen
+import com.example.bottomnavcomposeapplication.navigations.BottomNavGraph
+import com.example.bottomnavcomposeapplication.navigations.Screen
 
 @SuppressLint("UnusedMaterialScaffoldPaddingParameter")
 @Composable

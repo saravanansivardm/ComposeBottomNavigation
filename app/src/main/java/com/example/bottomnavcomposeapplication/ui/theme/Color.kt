@@ -1,4 +1,4 @@
-package com.example.bottomnavigationcompose.ui.theme
+package com.example.bottomnavcomposeapplication.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

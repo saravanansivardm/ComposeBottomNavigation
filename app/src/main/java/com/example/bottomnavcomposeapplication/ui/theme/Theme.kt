@@ -1,4 +1,4 @@
-package com.example.bottomnavigationcompose.ui.theme
+package com.example.bottomnavcomposeapplication.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -38,7 +38,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun BottomNavigationComposeTheme(
+fun BottomNavComposeApplicationTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

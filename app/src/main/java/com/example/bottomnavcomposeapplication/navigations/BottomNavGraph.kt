@@ -1,12 +1,12 @@
-package com.example.bottomnavigationcompose.navigation
+package com.example.bottomnavcomposeapplication.navigations
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.example.bottomnavigationcompose.screens.HomeScreen
-import com.example.bottomnavigationcompose.screens.ProfileScreen
-import com.example.bottomnavigationcompose.screens.SettingsScreen
+import com.example.bottomnavcomposeapplication.screens.HomeScreen
+import com.example.bottomnavcomposeapplication.screens.ProfileScreen
+import com.example.bottomnavcomposeapplication.screens.SettingsScreen
 
 @Composable
 fun BottomNavGraph(navController: NavHostController) {

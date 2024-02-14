@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BottomNavigationCompose"
+rootProject.name = "BottomNavigationComposeApplication"
 include(":app")
+ 

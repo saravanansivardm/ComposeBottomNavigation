@@ -1,4 +1,4 @@
-package com.example.bottomnavigationcompose
+package com.example.bottomnavcomposeapplication
 
 import org.junit.Test
 
